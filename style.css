@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1.5em;
+  color: #000;
+  background-color: #fff;
+}
+
+.container {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.header__wrapper {
+  position: relative;
+}
+
+.header__title {
+  margin-bottom: 50px;
+}
+
+.profile-photo {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.summary__text {
+  text-align: justify;
+}
+
+.footer__info {
+  text-align: right;
+}
